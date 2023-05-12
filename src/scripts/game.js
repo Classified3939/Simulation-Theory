@@ -1,4 +1,4 @@
-import { reactive } from "vue";
+import { reactive } from "../../node_modules/vue";
 import { ParticleUnitDefs } from "./particleUnitDefs";
 import { Modifier } from "./modifiers";
 import { GlobalModifiers } from "./globalModifiers";

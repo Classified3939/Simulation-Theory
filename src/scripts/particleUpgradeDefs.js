@@ -1,4 +1,4 @@
-import { reactive } from "vue";
+import { reactive } from "../../node_modules/vue";
 import { Upgrade } from "./upgrades";
 import { Game, format } from "./game";
 

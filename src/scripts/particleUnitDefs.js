@@ -1,4 +1,4 @@
-import { reactive } from "vue";
+import { reactive } from "../../node_modules/vue";
 import { Unit } from "./unit";
 
 export class ParticleUnitDefs {
